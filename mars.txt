@@ -4,3 +4,5 @@ But the Mummy will appreciate the lack of humidity
 Just a test
 Hi I am trying to infiltrate your mars (Trojan Horse)
 This line added to Wolfman's copy
+Wolfman's copy rules!
+>>>>>>> cb821b33bbb81c6e79268cd65142458f7540f82f
